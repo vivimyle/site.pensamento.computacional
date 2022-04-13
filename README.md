@@ -1,1 +1,3 @@
-# site.pensamento.computacional
+# site.pensamento.
+mylena e vivian 
+alunas  de pensamento computacional
